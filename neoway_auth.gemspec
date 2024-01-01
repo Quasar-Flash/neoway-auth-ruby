@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
   s.add_dependency             "json", "~> 2.5", ">= 2.0"
 
   s.add_development_dependency "bundler", ">= 1.2"
-  s.add_development_dependency "factory_bot", "~> 6.3.0"
+  s.add_development_dependency "factory_bot", "~> 6.4.5"
   s.add_development_dependency "fuubar", "~> 2.5"
   s.add_development_dependency "pry", "~> 0.15.0"
   s.add_development_dependency "rake", "~> 13.0", ">= 10.0.0"
