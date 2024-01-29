@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.metadata["source_code_uri"] = "https://github.com/Quasar-Flash/neoway-auth-ruby"
   s.metadata["bug_tracker_uri"] = "https://github.com/Quasar-Flash/neoway-auth-ruby/issues"
 
-  s.add_dependency             "flash_integration", "~> 1.0.0"
+  s.add_dependency             "flash_integration", ">= 1.0", "< 1.2"
   s.add_dependency             "i18n"
   s.add_dependency             "json", "~> 2.5", ">= 2.0"
 
