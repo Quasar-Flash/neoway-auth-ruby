@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "fuubar", "~> 2.5"
   s.add_development_dependency "pry", "~> 0.14.1"
   s.add_development_dependency "rake", "~> 13.0", ">= 10.0.0"
-  s.add_development_dependency "rspec", "~> 3.12.0"
+  s.add_development_dependency "rspec", "~> 3.13.0"
   s.add_development_dependency "rubocop", "~> 1.56.0"
   s.add_development_dependency "rubocop-packaging", "~> 0.5.2"
   s.add_development_dependency "rubocop-performance", "~> 1.19.0"
